@@ -1,0 +1,16 @@
+
+{
+  "latex-workshop.view.pdf.viewer": "tab",
+  "workbench.colorTheme": "Solarized Dark",
+  "window.zoomLevel": 1,
+  "[json]": {
+  
+  "editor.quickSuggestions": {
+  "strings": true
+  },
+  "editor.suggest.insertMode": "replace"
+  },
+  "latex-workshop.intellisense.citation.label": "title",
+  "files.autoSave": "afterDelay"
+ }
+ 
